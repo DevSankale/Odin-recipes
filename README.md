@@ -1,2 +1,1 @@
-# Odin-recipes
-Odin recipe project
+# odin-recipes
