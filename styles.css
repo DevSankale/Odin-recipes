@@ -26,9 +26,11 @@
     padding:15px;
    
 }
-.ul{
-    
-    
+ul{
+    padding:65px;
+    background-color: lightgray;
+    margin:50px;
+
 }
 .ul li{
     text-decoration: none;
