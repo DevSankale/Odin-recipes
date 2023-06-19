@@ -10,6 +10,8 @@
 
     padding-left: 290px;
     margin-top:50px;
+    display:flex;
+    align-items: center;
 }
 .div2{
     
