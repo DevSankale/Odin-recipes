@@ -35,3 +35,8 @@ p{
 li{
     font-size: 12px;
 }
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

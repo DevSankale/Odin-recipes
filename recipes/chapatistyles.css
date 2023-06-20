@@ -34,3 +34,8 @@ a:hover{
     color:black;
     font-size:12px;
 }
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
